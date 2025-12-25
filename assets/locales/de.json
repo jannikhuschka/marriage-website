@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "whatsapp": "WhatsApp",
+    "rsvp": "Teilnahmeformular",
+    "photos": "Fotos"
+  },
+  "links": {
+    "whatsapp": "https://chat.whatsapp.com/IasMxgorbkHL2bpY9L8TH4",
+    "rsvp": "https://docs.google.com/forms/d/e/1FAIpQLSc6E88EtEsHySPfIXhApZcaK1C-p0GbPvJJmY1ChBvlUJenfg/viewform?usp=dialog"
+  },
+  "homepage": {
+    "hero": {
+      "title": "Nina & Jakub",
+      "date": "26. Juni 2026",
+      "subtitle": "Forever Nerdy, Forever Glitzer",
+      "rsvpButton": "Teilnahmeformular"
+    },
+    "info": {
+      "title": "Hochzeitsinformationen",
+      "motto": "Forever Nerdy, Forever Glitzer",
+      "timeline": {
+        "title": "Zeitplan",
+        "churchArrival": "Ankunft (Kirche): 15:00 Uhr",
+        "ceremony": "Trauung: 15:30 Uhr, anschließend Sektempfang (16:30 Uhr)",
+        "partyArrival": "Ankunft (Feierlocation): 18:00 Uhr",
+        "dinner": "Abendessen: 18:30 Uhr",
+        "openEnd": "Danach: Open End"
+      },
+      "church": {
+        "title": "Kirche",
+        "name": "St.-Stephanus-Kirche Kessel",
+        "address": "Kaiser-Otto-Platz 12, 47574 Goch"
+      },
+      "party": {
+        "title": "Feierlocation",
+        "name": "Haus am See Kessel",
+        "address": "Klosterweg 136, 47574 Goch"
+      },
+      "dressCode": {
+        "title": "Dresscode",
+        "description": "Etwas mit Glitzer (z.B. Herren: glitzerndes Einstecktuch, Damen: Kleid/Schal/Schmuck mit Glitzer)"
+      },
+      "accommodation": {
+        "title": "Unterkunft",
+        "description": "Es gibt 1 Einzelzimmer, 11 Doppelzimmer und 2 Apartments (eines für 2 und eines für 4 Gäste). Gäste können ihre Präferenz im RSVP-Formular angeben (Name und E-Mail reichen aus, werden aber ohnehin im Formular ausgefüllt, Zimmer werden bar bezahlt).",
+        "link": "https://www.hausamsee-gochness.de",
+        "linkText": "Mehr Informationen zur Unterkunft"
+      },
+      "presents": {
+        "title": "Geschenke",
+        "description": "Bargeld kann nie falsch sein, es wird auch eine Liste geben, aus der man wählen kann, verwaltet von der Trauzeugin (Kontaktinformationen in der WhatsApp-Gruppe)"
+      },
+      "contact": {
+        "title": "Kontakt",
+        "description": "WhatsApp-Gruppe oder <a href=\"mailto:nina.wegenaer@web.de\" class=\"email-link\">nina.wegenaer@web.de</a>"
+      }
+    }
+  },
+  "whatsapp": {
+    "title": "WhatsApp Gruppen",
+    "subtitle": "Tretet unseren WhatsApp-Gruppen bei, um in Kontakt zu bleiben und Updates zur Hochzeit zu erhalten",
+    "mainGroup": {
+      "title": "Hauptgruppe",
+      "description": "Tretet der Hauptgruppe bei für allgemeine Updates und Ankündigungen"
+    },
+    "travelGroup": {
+      "title": "Reiseplanung",
+      "description": "Koordinierung von Reiseplänen und Informationsaustausch mit anderen Gästen"
+    },
+    "additionalGroup": {
+      "title": "Weitere Gruppen",
+      "description": "Weitere Gruppen können hier bei Bedarf hinzugefügt werden"
+    },
+    "joinButton": "Gruppe beitreten",
+    "instructions": {
+      "title": "So trittst du bei",
+      "step1": "Klicke auf den Gruppenlink, dem du beitreten möchtest",
+      "step2": "Du wirst zu WhatsApp weitergeleitet (Web oder App)",
+      "step3": "Tippe auf \"Gruppe beitreten\", um Mitglied zu werden",
+      "step4": "Beginne zu chatten und bleibe auf dem Laufenden!",
+      "note": "Hinweis: Stelle sicher, dass du WhatsApp auf deinem Gerät installiert hast oder Zugriff auf WhatsApp Web hast."
+    }
+  },
+  "rsvp": {
+    "title": "RSVP",
+    "subtitle": "Bitte lasst uns wissen, ob ihr an unserem besonderen Tag dabei sein werdet",
+    "content": {
+      "title": "Wir würden uns freuen, euch dort zu sehen!",
+      "text1": "Eure Anwesenheit würde unsere Feier noch besonderer machen. Bitte nehmt euch einen Moment Zeit, das RSVP-Formular auszufüllen, damit wir entsprechend planen können.",
+      "text2": "Wir bitten euch höflich, bis zum Stichtag zu antworten, damit wir die notwendigen Arrangements treffen können.",
+      "button": "RSVP-Formular ausfüllen",
+      "note": "Das Formular öffnet sich in einem neuen Tab. Falls ihr Probleme beim Zugriff auf das Formular habt, kontaktiert uns bitte direkt."
+    }
+  },
+  "photos": {
+    "title": "Fotogalerie",
+    "subtitle": "Erinnerungen an unseren besonderen Tag",
+    "placeholder": {
+      "title": "Fotos kommen bald",
+      "text1": "Wir freuen uns darauf, Fotos von unserer Hochzeitsfeier mit euch zu teilen!",
+      "text2": "Schaut nach der Veranstaltung hier vorbei, um all die wunderbaren Erinnerungen zu sehen, die wir gemeinsam schaffen werden."
+    },
+    "disclaimer": {
+      "title": "Wichtiger Hinweis",
+      "text": "Es wird einen professionellen Fotografen geben, daher möchten wir euch bitten, eure Handys in der Tasche zu lassen (besonders in der Kirche), da ihr die Fotos nach der Hochzeit auf dieser Website finden könnt."
+    }
+  },
+  "footer": {
+    "text": "© 2026 Hochzeitsfeier. Mit ❤️ gemacht"
+  }
+}
+

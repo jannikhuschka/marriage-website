@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "whatsapp": "WhatsApp",
+    "rsvp": "Formularz rejestracyjny",
+    "photos": "Zdjęcia"
+  },
+  "links": {
+    "whatsapp": "https://chat.whatsapp.com/L8W1MSVU4gHLDTgpvQ4IZG",
+    "rsvp": "https://docs.google.com/forms/d/e/1FAIpQLSc6E88EtEsHySPfIXhApZcaK1C-p0GbPvJJmY1ChBvlUJenfg/viewform?usp=dialog"
+  },
+  "homepage": {
+    "hero": {
+      "title": "Niny & Jakuba",
+      "date": "26 czerwca 2026",
+      "subtitle": "Forever Nerdy, Forever Blask",
+      "rsvpButton": "Formularz rejestracyjny"
+    },
+    "info": {
+      "title": "Informacje o weselu",
+      "motto": "Forever Nerdy, Forever Blask",
+      "timeline": {
+        "title": "Harmonogram",
+        "churchArrival": "Przyjazd (kościół): 15:00",
+        "ceremony": "Ceremonia: 15:30, następnie toast (16:30)",
+        "partyArrival": "Przyjazd (miejsce przyjęcia): 18:00",
+        "dinner": "Kolacja: 18:30",
+        "openEnd": "Potem: do późna"
+      },
+      "church": {
+        "title": "Kościół",
+        "name": "St.-Stephanus-Kirche Kessel",
+        "address": "Kaiser-Otto-Platz 12, 47574 Goch"
+      },
+      "party": {
+        "title": "Miejsce przyjęcia",
+        "name": "Haus am See Kessel",
+        "address": "Klosterweg 136, 47574 Goch"
+      },
+      "dressCode": {
+        "title": "Dress code",
+        "description": "Coś z brokatem (np. panowie: brokatowa chusteczka do kieszeni, panie: sukienka/szal/biżuteria z brokatem)"
+      },
+      "accommodation": {
+        "title": "Zakwaterowanie",
+        "description": "Jest 1 pokój jednoosobowy, 11 pokoi dwuosobowych i 2 apartamenty (jeden dla 2 i jeden dla 4 gości). Goście mogą określić swoje preferencje w formularzu RSVP (wystarczy imię i e-mail, ale są one i tak wypełniane w formularzu, pokoje są płatne gotówką).",
+        "link": "https://www.hausamsee-gochness.de",
+        "linkText": "Więcej informacji o zakwaterowaniu"
+      },
+      "presents": {
+        "title": "Prezenty",
+        "description": "Gotówka zawsze się sprawdzi, będzie też lista, z której można wybierać, zarządzana przez druhnę (informacje kontaktowe w grupie WhatsApp)"
+      },
+      "contact": {
+        "title": "Kontakt",
+        "description": "Grupa WhatsApp lub <a href=\"mailto:nina.wegenaer@web.de\" class=\"email-link\">nina.wegenaer@web.de</a>"
+      }
+    }
+  },
+  "whatsapp": {
+    "title": "Grupy WhatsApp",
+    "subtitle": "Dołącz do naszych grup WhatsApp, aby pozostać w kontakcie i otrzymywać aktualizacje o weselu",
+    "mainGroup": {
+      "title": "Główna grupa",
+      "description": "Dołącz do głównej grupy, aby otrzymywać ogólne aktualizacje i ogłoszenia"
+    },
+    "travelGroup": {
+      "title": "Planowanie podróży",
+      "description": "Koordynacja planów podróży i wymiana informacji z innymi gośćmi"
+    },
+    "additionalGroup": {
+      "title": "Dodatkowe grupy",
+      "description": "Więcej grup można tutaj dodać w razie potrzeby"
+    },
+    "joinButton": "Dołącz do grupy",
+    "instructions": {
+      "title": "Jak dołączyć",
+      "step1": "Kliknij link grupy, do której chcesz dołączyć",
+      "step2": "Zostaniesz przekierowany do WhatsApp (web lub aplikacja)",
+      "step3": "Naciśnij \"Dołącz do grupy\", aby zostać członkiem",
+      "step4": "Zacznij rozmawiać i bądź na bieżąco!",
+      "note": "Uwaga: Upewnij się, że masz zainstalowany WhatsApp na swoim urządzeniu lub dostęp do WhatsApp Web."
+    }
+  },
+  "rsvp": {
+    "title": "RSVP",
+    "subtitle": "Prosimy o informację, czy będziecie z nami w nasz szczególny dzień",
+    "content": {
+      "title": "Bylibyśmy zachwyceni waszą obecnością!",
+      "text1": "Wasza obecność sprawiłaby, że nasze świętowanie byłoby jeszcze bardziej wyjątkowe. Prosimy poświęcić chwilę na wypełnienie formularza RSVP, abyśmy mogli odpowiednio zaplanować.",
+      "text2": "Uprzejmie prosimy o odpowiedź do terminu, abyśmy mogli dokonać niezbędnych ustaleń.",
+      "button": "Wypełnij formularz RSVP",
+      "note": "Formularz otworzy się w nowej karcie. Jeśli macie problemy z dostępem do formularza, prosimy o bezpośredni kontakt."
+    }
+  },
+  "photos": {
+    "title": "Galeria zdjęć",
+    "subtitle": "Wspomnienia z naszego szczególnego dnia",
+    "placeholder": {
+      "title": "Zdjęcia wkrótce",
+      "text1": "Z niecierpliwością czekamy na udostępnienie zdjęć z naszego wesela!",
+      "text2": "Sprawdźcie tutaj po wydarzeniu, aby zobaczyć wszystkie wspaniałe wspomnienia, które razem stworzymy."
+    },
+    "disclaimer": {
+      "title": "Ważna informacja",
+      "text": "Będzie profesjonalny fotograf, dlatego prosimy o trzymanie telefonów w kieszeniach (szczególnie w kościele), ponieważ zdjęcia będzie można znaleźć na tej stronie po weselu."
+    }
+  },
+  "footer": {
+    "text": "© 2026 Świętowanie wesela. Stworzone z ❤️"
+  }
+}
+

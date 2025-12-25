@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fotos - Hochzeitsfeier</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo" data-i18n="homepage.hero.title"></a>
+            <button class="nav-toggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="index.html" class="nav-link" data-i18n="nav.home">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="https://google.de" class="nav-link" id="whatsapp-link" target="_blank" rel="noopener noreferrer" data-i18n="nav.whatsapp">WhatsApp Groups</a>
+                </li>
+                <li class="nav-item">
+                    <a href="https://google.de" class="nav-link" id="rsvp-link" target="_blank" rel="noopener noreferrer" data-i18n="nav.rsvp">RSVP</a>
+                </li>
+                <li class="nav-item">
+                    <a href="photos.html" class="nav-link active" data-i18n="nav.photos">Photos</a>
+                </li>
+                <li class="nav-item lang-toggle">
+                    <button data-lang="de" class="lang-btn" aria-label="Deutsch">DE</button>
+                    <button data-lang="pl" class="lang-btn" aria-label="Polski">PL</button>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <section class="page-header">
+            <div class="container">
+                <h1 data-i18n="photos.title">Photo Gallery</h1>
+                <p data-i18n="photos.subtitle">Memories from our special day</p>
+            </div>
+        </section>
+
+        <section class="photos-section">
+            <div class="container">
+                <div class="photos-disclaimer">
+                    <div class="disclaimer-card">
+                        <h3 data-i18n="photos.disclaimer.title">Important Notice</h3>
+                        <p data-i18n="photos.disclaimer.text"></p>
+                    </div>
+                </div>
+
+                <div class="photos-placeholder">
+                    <div class="placeholder-content">
+                        <h2 data-i18n="photos.placeholder.title">Photos Coming Soon</h2>
+                        <p data-i18n="photos.placeholder.text1">We're looking forward to sharing photos from our wedding celebration with you!</p>
+                        <p data-i18n="photos.placeholder.text2">Check back here after the event to see all the wonderful memories we'll create together.</p>
+                        <div class="placeholder-icon">📸</div>
+                    </div>
+                </div>
+
+                <div class="photos-grid" id="photos-grid">
+                    <!-- Photo grid structure ready for future images -->
+                    <!-- Images will be added here after the event -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p data-i18n="footer.text">&copy; 2024 Wedding Celebration. Made with ❤️</p>
+        </div>
+    </footer>
+
+    <script src="scripts/i18n.js"></script>
+    <script src="scripts/main.js"></script>
+</body>
+</html>
+

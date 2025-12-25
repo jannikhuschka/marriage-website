@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hochzeitsfeier</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo" data-i18n="homepage.hero.title"></a>
+            <button class="nav-toggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="index.html" class="nav-link active" data-i18n="nav.home">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="https://google.de" class="nav-link" id="whatsapp-link" target="_blank" rel="noopener noreferrer" data-i18n="nav.whatsapp">WhatsApp Groups</a>
+                </li>
+                <li class="nav-item">
+                    <a href="https://google.de" class="nav-link" id="rsvp-link" target="_blank" rel="noopener noreferrer" data-i18n="nav.rsvp">RSVP</a>
+                </li>
+                <li class="nav-item">
+                    <a href="photos.html" class="nav-link" data-i18n="nav.photos">Photos</a>
+                </li>
+                <li class="nav-item lang-toggle">
+                    <button data-lang="de" class="lang-btn" aria-label="Deutsch">DE</button>
+                    <button data-lang="pl" class="lang-btn" aria-label="Polski">PL</button>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <section class="hero">
+            <div class="hero-content">
+                <h1 class="hero-title" data-i18n="homepage.hero.title">We're Getting Married!</h1>
+                <p class="hero-date" data-i18n="homepage.hero.date">Save the Date</p>
+                <p class="hero-subtitle" data-i18n="homepage.hero.subtitle">Join us for a celebration of love</p>
+            </div>
+        </section>
+
+        <section class="info-section">
+            <div class="container">
+                <h2 data-i18n="homepage.info.title">Wedding Information</h2>
+                
+                <!-- Timeline -->
+                <div class="info-card timeline-card">
+                    <h3 data-i18n="homepage.info.timeline.title">Timeline</h3>
+                    <div class="timeline">
+                        <div class="timeline-item">
+                            <div class="timeline-time">15:00</div>
+                            <div class="timeline-content">
+                                <p data-i18n="homepage.info.timeline.churchArrival"></p>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-time">15:30</div>
+                            <div class="timeline-content">
+                                <p data-i18n="homepage.info.timeline.ceremony"></p>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-time">18:00</div>
+                            <div class="timeline-content">
+                                <p data-i18n="homepage.info.timeline.partyArrival"></p>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-time">18:30</div>
+                            <div class="timeline-content">
+                                <p data-i18n="homepage.info.timeline.dinner"></p>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-time">—</div>
+                            <div class="timeline-content">
+                                <p data-i18n="homepage.info.timeline.openEnd"></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Locations Row -->
+                <div class="locations-row">
+                    <div class="info-card">
+                        <h3 data-i18n="homepage.info.church.title">Church</h3>
+                        <p class="location-name" data-i18n="homepage.info.church.name"></p>
+                        <p class="location-address" data-i18n="homepage.info.church.address"></p>
+                    </div>
+                    <div class="info-card">
+                        <h3 data-i18n="homepage.info.party.title">Party Location</h3>
+                        <p class="location-name" data-i18n="homepage.info.party.name"></p>
+                        <p class="location-address" data-i18n="homepage.info.party.address"></p>
+                    </div>
+                </div>
+
+                <!-- All Other Info Cards in Grid -->
+                <div class="info-grid">
+                    <!-- Dress Code -->
+                    <div class="info-card">
+                        <h3 data-i18n="homepage.info.dressCode.title">Dress Code</h3>
+                        <p data-i18n="homepage.info.dressCode.description"></p>
+                    </div>
+
+                    <!-- Accommodation -->
+                    <div class="info-card">
+                        <h3 data-i18n="homepage.info.accommodation.title">Accommodation</h3>
+                        <p data-i18n="homepage.info.accommodation.description"></p>
+                        <a href="https://www.hausamsee-gochness.de" target="_blank" rel="noopener noreferrer" class="info-link" data-i18n="homepage.info.accommodation.linkText">More information about accommodation</a>
+                    </div>
+
+                    <!-- Presents -->
+                    <div class="info-card">
+                        <h3 data-i18n="homepage.info.presents.title">Presents</h3>
+                        <p data-i18n="homepage.info.presents.description"></p>
+                    </div>
+
+                    <!-- Contact -->
+                    <div class="info-card">
+                        <h3 data-i18n="homepage.info.contact.title">Contact</h3>
+                        <p><span data-i18n="homepage.info.contact.description" data-i18n-html></span></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p data-i18n="footer.text">&copy; 2024 Wedding Celebration. Made with ❤️</p>
+        </div>
+    </footer>
+
+    <script src="scripts/i18n.js"></script>
+    <script src="scripts/main.js"></script>
+</body>
+</html>
+
