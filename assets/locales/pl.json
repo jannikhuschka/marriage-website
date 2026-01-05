@@ -7,13 +7,13 @@
   },
   "links": {
     "whatsapp": "https://chat.whatsapp.com/L8W1MSVU4gHLDTgpvQ4IZG",
-    "rsvp": "https://docs.google.com/forms/d/e/1FAIpQLSc6E88EtEsHySPfIXhApZcaK1C-p0GbPvJJmY1ChBvlUJenfg/viewform?usp=dialog"
+    "rsvp": "https://docs.google.com/forms/d/e/1FAIpQLSd2IQH8Xiq-5qXwF_zAFcnCJxEXhLFNwiXcE_ZAz4yK--Usdw/viewform?usp=publish-editor"
   },
   "homepage": {
     "hero": {
-      "title": "Niny & Jakuba",
+      "title": "Zaślubiny Niny & Jakuba",
       "date": "26 czerwca 2026",
-      "subtitle": "Forever Nerdy, Forever Blask",
+      "subtitle": "Forever Nerdy, Forever Glitter",
       "rsvpButton": "Formularz rejestracyjny"
     },
     "info": {
@@ -21,11 +21,11 @@
       "motto": "Forever Nerdy, Forever Blask",
       "timeline": {
         "title": "Harmonogram",
-        "churchArrival": "Przyjazd (kościół): 15:00",
-        "ceremony": "Ceremonia: 15:30, następnie toast (16:30)",
-        "partyArrival": "Przyjazd (miejsce przyjęcia): 18:00",
-        "dinner": "Kolacja: 18:30",
-        "openEnd": "Potem: do późna"
+        "churchArrival": "Przyjazd do kościoła: 15:00",
+        "ceremony": "Zaślubiny: 15:30, następnie toast za nowożeńców (16:30)",
+        "partyArrival": "Przyjazd na miejsce weseliska: 18:00",
+        "dinner": "Kolacja weselna: 18:30",
+        "openEnd": "Zabawa do późna"
       },
       "church": {
         "title": "Kościół",
@@ -43,13 +43,13 @@
       },
       "accommodation": {
         "title": "Zakwaterowanie",
-        "description": "Jest 1 pokój jednoosobowy, 11 pokoi dwuosobowych i 2 apartamenty (jeden dla 2 i jeden dla 4 gości). Goście mogą określić swoje preferencje w formularzu RSVP (wystarczy imię i e-mail, ale są one i tak wypełniane w formularzu, pokoje są płatne gotówką).",
+        "description": "Jest 1 pokój jednoosobowy, 11 pokoi dwuosobowych i 2 apartamenty (jeden dla 2 i jeden dla 4 gości) na miejscu. Goście mogą określić swoje preferencje w formularzu RSVP (wystarczy imię i e-mail, ale są one i tak wypełniane w formularzu, pokoje są płatne gotówką).",
         "link": "https://www.hausamsee-gochness.de",
-        "linkText": "Więcej informacji o zakwaterowaniu"
+        "linkText": "Więcej informacji o noclegach"
       },
       "presents": {
         "title": "Prezenty",
-        "description": "Gotówka zawsze się sprawdzi, będzie też lista, z której można wybierać, zarządzana przez druhnę (informacje kontaktowe w grupie WhatsApp)"
+        "description": "Gotówka zawsze się sprawdzi, będzie też lista, z której można wybierać propozycje prezentów, zarządzana przez druhnę (informacje kontaktowe w grupie WhatsApp)"
       },
       "contact": {
         "title": "Kontakt",

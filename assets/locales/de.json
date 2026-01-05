@@ -43,9 +43,9 @@
       },
       "accommodation": {
         "title": "Unterkunft",
-        "description": "Es gibt 1 Einzelzimmer, 11 Doppelzimmer und 2 Apartments (eines für 2 und eines für 4 Gäste). Gäste können ihre Präferenz im RSVP-Formular angeben (Name und E-Mail reichen aus, werden aber ohnehin im Formular ausgefüllt, Zimmer werden bar bezahlt).",
+        "description": "Es gibt 1 Einzelzimmer, 11 Doppelzimmer und 2 Apartments (eines für 2 und eines für 4 Gäste) beim Haus am See. Gäste können ihre Präferenz im RSVP-Formular angeben (Name und E-Mail reichen aus, werden aber ohnehin im Formular ausgefüllt, Zimmer werden bar bezahlt).",
         "link": "https://www.hausamsee-gochness.de",
-        "linkText": "Mehr Informationen zur Unterkunft"
+        "linkText": "Mehr Informationen zu Unterkünften"
       },
       "presents": {
         "title": "Geschenke",

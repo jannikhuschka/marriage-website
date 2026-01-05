@@ -145,6 +145,7 @@ body {
     text-align: center;
     color: var(--white);
     margin-bottom: 4rem;
+    /* background-image: url("/assets/images/gate1.jpg"); */
 }
 
 .hero-content {
