@@ -106,6 +106,43 @@
       "text": "Es wird eine professionelle Fotografin geben, daher möchten wir euch bitten, eure Handys in der Tasche zu lassen (besonders in der Kirche), da ihr die Fotos nach der Hochzeit hier finden könnt."
     }
   },
+  "profiles": {
+    "anakin-padme": {
+      "quote": "",
+      "funFact": "",
+      "reason": ""
+    },
+    "bowser-peach": {
+      "quote": "",
+      "funFact": "",
+      "reason": ""
+    },
+    "link-zelda": {
+      "quote": "",
+      "funFact": "",
+      "reason": ""
+    },
+    "leon-ada": {
+      "quote": "",
+      "funFact": "",
+      "reason": ""
+    },
+    "marty-jennifer": {
+      "quote": "",
+      "funFact": "",
+      "reason": ""
+    },
+    "sammy-yaz": {
+      "quote": "",
+      "funFact": "",
+      "reason": ""
+    },
+    "captain-carter": {
+      "quote": "No, I don't think I will.",
+      "funFact": "Captain America is actually gay.",
+      "reason": "Random ass reason"
+    }
+  },
   "footer": {
     "text": "© 2026 Hochzeitsfeier. Mit ❤️ gemacht"
   }

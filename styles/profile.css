@@ -1,0 +1,58 @@
+/* Profile pages: minimal, circular image and simple text */
+.profile-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 4rem 1rem;
+  background: var(--white);
+  color: var(--text-dark);
+}
+
+.profile-name {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+  color: var(--primary-color);
+  text-align: center;
+}
+
+.profile-pic {
+  width: 320px;
+  height: 320px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: var(--shadow);
+  border: 6px solid var(--accent-color);
+  margin-bottom: 2rem;
+}
+
+.profile-details {
+  max-width: 760px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.profile-details h2 {
+  font-size: 1.2rem;
+  color: var(--secondary-color);
+  font-weight: 600;
+}
+
+.profile-details p {
+  color: var(--text-light);
+  line-height: 1.6;
+}
+
+@media (max-width: 480px) {
+  .profile-pic {
+    width: 220px;
+    height: 220px;
+  }
+  .profile-name {
+    font-size: 1.6rem;
+  }
+}

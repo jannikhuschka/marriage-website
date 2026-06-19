@@ -106,6 +106,43 @@
       "text": "Będzie profesjonalny fotograf, dlatego prosimy o trzymanie telefonów w kieszeniach (szczególnie w kościele), ponieważ zdjęcia będzie można znaleźć na tej stronie po weselu."
     }
   },
+  "profiles": {
+    "anakin-padme": {
+      "quote": "",
+      "funFact": "",
+      "reason": ""
+    },
+    "bowser-peach": {
+      "quote": "",
+      "funFact": "",
+      "reason": ""
+    },
+    "link-zelda": {
+      "quote": "",
+      "funFact": "",
+      "reason": ""
+    },
+    "leon-ada": {
+      "quote": "",
+      "funFact": "",
+      "reason": ""
+    },
+    "marty-jennifer": {
+      "quote": "",
+      "funFact": "",
+      "reason": ""
+    },
+    "sammy-yaz": {
+      "quote": "",
+      "funFact": "",
+      "reason": ""
+    },
+    "captain-carter": {
+      "quote": "",
+      "funFact": "",
+      "reason": ""
+    }
+  },
   "footer": {
     "text": "© 2026 Świętowanie wesela. Stworzone z ❤️"
   }
